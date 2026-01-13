@@ -8,7 +8,9 @@
 <body>
   <div class="jumbotron" style="background-color:white">
      <h1 class="text-center">Welcome to</h1>
-      <img src="http://www.learntek.org/wp-content/uploads/2017/08/jenkins_image.png" alt="Spidertocat"
+      <!--img src="http://www.learntek.org/wp-content/uploads/2017/08/jenkins_image.png" alt="Spidertocat"
+           class="img-responsive center-block" style="width:250px"/-->
+ <img src="https://cdn.prod.website-files.com/622642781cd7e96ac1f66807/662a5f83dfdd913da7fa072a_Blog%20Header.webp" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
       <h1 class="text-center">My job is done with jenkins</h1>
       <h2 class="text-center">Welcome RAYAN KHAN on behalf of DevOps Academy, learning one_click _deployment</h2>
